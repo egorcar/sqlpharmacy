@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Caraulan_Egor_Farmacie" id="8D448817-DF83-8ED9-64A7-65C0E0C6AAF2" version="3.5">
+<createdBy>Egor</createdBy>
+<createdTime>2024-10-28 14:00:17 UTC</createdTime>
+<ownerDesignName>Farmacie</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>8D448817-DF83-8ED9-64A7-65C0E0C6AAF2</designId>
+</OSDM_Design>
